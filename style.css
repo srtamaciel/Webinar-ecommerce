@@ -1,0 +1,32 @@
+* {
+    transform: all 1s;
+}
+body {
+    padding: 10px;
+    background-color: #BFE5EB;
+    
+}
+
+section {
+
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 50px;
+}
+
+.cart {
+    background-color: #779FAE;
+    color: white;
+    width: 300px;
+}
+.cart h2 {
+    text-align: center;
+}
+
+
+#cart, #items {
+    width: 50vmax;
+}
